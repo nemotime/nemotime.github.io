@@ -12,7 +12,7 @@ html, .container, body{
 .container{
   margin-bottom: 20px;
 }
-#mybio{
+.bio-text{
   color: #282828;
   font-size: 1.25em;
 }
@@ -77,4 +77,29 @@ header{
 }
 .social i{
   padding: 0 0 0 10px;
+}
+.tech-logos i{
+  font-size: 5em;
+  padding: 0 0 0 10px;
+  line-height: 100px;
+}
+.skills-h1-holder{
+  color: white;
+  padding: 10px 0;
+  width: 100%;
+  text-align: left;
+  margin: 25px 0;
+  background: grey;
+  background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+  background-size: 400% 400%;
+}
+.experience-h1-holder{
+  color: white;
+  padding: 10px 0;
+  width: 100%;
+  text-align: left;
+  margin: 25px 0;
+  background: grey;
+  background: linear-gradient(-45deg, #23A6D5, #23D5AB, #EE7752, #E73C7E);
+  background-size: 400% 400%;
 }
