@@ -85,35 +85,36 @@ header{
 }
 .skills-h1-holder{
   color: white;
-  padding: 10px 0;
+  padding: 10px 0 10px 1em;
   width: 100%;
   text-align: left;
   margin: 25px 0;
   background: grey;
-  background: linear-gradient(-45deg, #e95224, #EE7752, #f39f85, #EE7752, #e95224);
+  /*background: linear-gradient(-45deg, #e95224, #EE7752, #f39f85, #EE7752, #e95224);*/
+  background: linear-gradient(-45deg, #ff0080, #e95224, #f39f85, #e95224, #ff0080);
   background-size: 300% 300%;
   animation: Gradient 15s ease infinite
 }
 .experience-h1-holder{
   color: white;
-  padding: 10px 0;
+  padding: 10px 0 10px 1em;
   width: 100%;
   text-align: left;
   margin: 25px 0;
   background: grey;
-  background: linear-gradient(-45deg, #e4256f, #E73C7E, #ee76a4, #E73C7E, #e4256f);
+  background: linear-gradient(-45deg,  	#8b1a89, #e4256f, #ee76a4, #e4256f,  	#8b1a89);
   background-size: 400% 400%;
   animation: Gradient 15s ease infinite
 }
 
 .thankyou-h1-holder{
   color: white;
-  padding: 10px 0;
+  padding: 10px 0 10px 1em;
   width: 100%;
   text-align: left;
   margin: 25px 0;
   background: grey;
-  background: linear-gradient(-45deg, #1f95bf, #23A6D5, #65c0e1, #23A6D5, #1f95bf);
+  background: linear-gradient(-45deg, #1f95bf, #4cc94c, #a5e4a5, #4cc94c, #1f95bf);
   background-size: 400% 400%;
   animation: Gradient 15s ease infinite
 }
