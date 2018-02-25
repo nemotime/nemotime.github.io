@@ -147,3 +147,7 @@ header{
   font-size: 0.75em;
     letter-spacing: 0.5px;
 }
+
+.section-head{
+  margin-botom: 5px;  
+}
