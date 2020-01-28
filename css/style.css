@@ -21,17 +21,7 @@ html, .container, body{
   font-size: 1.25em;
 }
 header{
-  color: white;
-  padding: 100px 0;
-  text-align: center;
-  background: grey;
-  margin: 50px 0;
-  padding: 40px;
-  background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
-  background-size: 400% 400%;
-  -webkit-animation: Gradient 15s ease infinite;
-  -moz-animation: Gradient 15s ease infinite;
-  animation: Gradient 15s ease infinite
+  padding: 100px 0 50px 0;
 }
 @-webkit-keyframes Gradient {
  0% {
@@ -74,10 +64,10 @@ header{
   font-size: 2em;
 }
 .social a:link, .social a:visited{
-  color:white;
+  color:black;
 }
 .social a:hover{
-  color:lightblue;
+  color:gray;
 }
 .social i{
   padding: 0 0 0 10px;
@@ -154,7 +144,7 @@ header{
 }
 
 .section-head{
-  margin-botom: 5px;
+  margin-bottom: 10px;
 }
 
 .resume-link a:link{
@@ -169,4 +159,8 @@ header{
 
 .resume-link a:hover{
   color: orange;
+}
+
+h2 {
+  margin-top: 50px;
 }
